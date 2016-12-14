@@ -1,0 +1,7 @@
+{
+  "require": {
+    "symfony/dom-crawler": "^3.2",
+    "symfony/css-selector": "^3.2",
+    "ramsey/array_column": "^1.1"
+  }
+}
