@@ -8,7 +8,7 @@ This PHP script crawls color hex codes from [nipponcolors.com](http://nipponcolo
 3. `php run.php`
 4. Get the JSON file from `output/nippon_colors.json`
 
-## JSON sample
+## JSON Sample
 ```json
 [
   {
